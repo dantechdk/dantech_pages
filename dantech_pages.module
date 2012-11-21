@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Dantech Pages feature.
+ */
+
+include_once 'dantech_pages.features.inc';
